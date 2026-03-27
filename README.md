@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=muraliV2&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
 ###
 
 <div align="center">
